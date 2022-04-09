@@ -1,0 +1,96 @@
+* {
+  box-sizing: border-box;
+}
+
+.main-brand {
+  font-size: 60px;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Beau Rivage", snell roundhand;
+  margin: 60px 0;
+}
+
+.story-image {
+  width: 100%;
+}
+
+.story-title {
+  font-family: "Beau Rivage" "Courier New", Courier, monospace;
+  font-weight: normal;
+  font-size: 30px;
+  font-style: italic;
+  margin: 15px 0;
+  text-align: center;
+}
+
+.story-text {
+  line-height: 1.5;
+  font-size: 18px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.row {
+  display: flex;
+  align-items: stretch;
+}
+.story {
+  border: 1px solid #333;
+  padding: 5px;
+}
+
+.quarter {
+  width: 25%;
+}
+
+.half {
+  width: 50%;
+}
+
+.three-quarter {
+  width: 75%;
+}
+.nav-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border: 1px solid black;
+}
+
+.nav-item {
+  width: 100%;
+  flex: 1;
+  display: flex;
+  padding-left: 25px;
+  align-items: center;
+  font-size: 30px;
+  color: #555;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: #555;
+}
+
+.nav-item :hover {
+  text-decoration: underline;
+}
+
+.nav-item:nth-child(1) {
+  background-color: #ac92eb;
+}
+.nav-item:nth-child(2) {
+  background-color: #4fc1e8;
+}
+.nav-item:nth-child(3) {
+  background-color: #a0d568;
+}
+.nav-item:nth-child(4) {
+  background-color: #ffce54;
+}
+.nav-item:nth-child(5) {
+  background-color: #ed5564;
+}
