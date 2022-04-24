@@ -10,17 +10,19 @@
 
 ## Authors
 ---
-- [@Brian Holt](https://www.github.com/btholt) 
+### [Brian Holt](https://www.github.com/btholt) 
+
 
 ## Website to learn full course 
 ---
-- [intro-to-web-dev-v2](https://btholt.github.io/intro-to-web-dev-v2/) 
+### [intro-to-web-dev-v2](https://btholt.github.io/intro-to-web-dev-v2/) 
  
 
 ## Demo link
 ---
-- [the-news-time](https://github.com/samirzjadhav/the-news-times)
+###  [the-news-time](https://github.com/samirzjadhav/the-news-times)
 
 
   ## Skills
+---
 ## Javascript, HTML, CSS...
