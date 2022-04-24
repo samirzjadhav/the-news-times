@@ -1,28 +1,6 @@
-# THE NEWS TIME 
+![heroimage.png](./hero.png)
 
-## this is the project from frontend master.
+## [The News Times Website](https://the-news-times.vercel.app/)
 
+This is one of the very first project I created using html, css while following [Intro to web development](https://frontendmasters.com/courses/web-development-v2/) by [Brian Holt](https://twitter.com/holtbt) on [FrontendMasters](https://frontendmasters.com)
 
-## it solving exercise for beginners.
-
-## Brian Holt is good teacher 
-
-
-## Authors
----
-### [Brian Holt](https://www.github.com/btholt) 
-
-
-## Website to learn full course 
----
-### [intro-to-web-dev-v2](https://btholt.github.io/intro-to-web-dev-v2/) 
- 
-
-## Demo link
----
-###  [the-news-time](https://github.com/samirzjadhav/the-news-times)
-
-
-  ## Skills
----
-## Javascript, HTML, CSS...
